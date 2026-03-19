@@ -1,0 +1,1 @@
+This is a solo project that I have created while following the Scrimbla course of full stack development which is uploaded by freecodecamp on YouTube
